@@ -8,6 +8,9 @@
     <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/61c5780e6a09408b953100283662fc72">
       <img alt="Static Badge" src="https://img.shields.io/badge/Security%2B-blue">
     </a>
+    <a href="https://certificates.cs50.io/85ab67a0-e563-4e6a-828a-68cfda3466f8.pdf?size=letter">
+      <img alt="Static Badge" src="https://img.shields.io/badge/CS50P-blue">
+    </a>
   </p>
 
   <p align="center">
