@@ -17,8 +17,11 @@
 
 ## My projects
 - [HomeSOC](https://github.com/Dio-Goncalves/HomeSOC) - This is a work in progress. A pilot project where I built my own SOC using VMs in different machines. My goal was to learn in order to migrate this to physical servers with open-source software for a stable infrastructure that allows for modular improvement;  
-- [Jira Automation](https://github.com/Dio-Goncalves/jira-automation) - Project I made to learn JIRA, python, APIs and how to automate using scripts.
+- [Jira Automation](https://github.com/Dio-Goncalves/jira-automation) - Project I made to learn JIRA, python, APIs and how to automate using scripts;
+- [Access Log Analyzer](https://github.com/Dio-Goncalves/Access-Log-Analyzer) - My final project for the CS50P course. It's a command-line tool, written in python, that reads and parses Apache web server logs and then prints a short and readable report.
 
 ## Current goals
+- AWS Certified Solutions Architect certification
+- Learn Docker & Kubernetes, aim for the CKA certification;
+- CCNA;
 - HomeSOCv2 - Direct improvement over my first SOC project. Will involve hardware management and a deeper dive into network segmentation. Will also introduce more components to the environment, like containers and kubernetes, for example;
-- CCNA.
