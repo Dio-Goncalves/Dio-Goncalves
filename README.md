@@ -24,7 +24,7 @@
 - [Access Log Analyzer](https://github.com/Dio-Goncalves/Access-Log-Analyzer) - My final project for the CS50P course. It's a command-line tool, written in python, that reads and parses Apache web server logs and then prints a short and readable report.
 
 ## Current goals
-- AWS Certified Solutions Architect certification
+- AWS Certified Solutions Architect certification;
 - Learn Docker & Kubernetes, aim for the CKA certification;
 - CCNA;
-- HomeSOCv2 - Direct improvement over my first SOC project. Will involve hardware management and a deeper dive into network segmentation. Will also introduce more components to the environment, like containers and kubernetes, for example;
+- HomeSOCv2 - Direct improvement over my first SOC project. Will involve hardware management and a deeper dive into network segmentation. Will also introduce more components to the environment, like containers and kubernetes, for example.
