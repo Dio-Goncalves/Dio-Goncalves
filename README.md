@@ -14,16 +14,17 @@
   </p>
 
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,javascript,css,html,linux,windows,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,python,bash,powershell,javascript,css,html,linux,windows,git,vscode" />
 </p>
 </html>
 
 ## My projects
 - [HomeSOC](https://github.com/Dio-Goncalves/HomeSOC) - This is a work in progress. A pilot project where I built my own SOC using VMs in different machines. My goal was to learn in order to migrate this to physical servers with open-source software for a stable infrastructure that allows for modular improvement;  
 - [Jira Automation](https://github.com/Dio-Goncalves/jira-automation) - Project I made to learn JIRA, python, APIs and how to automate using scripts;
-- [Access Log Analyzer](https://github.com/Dio-Goncalves/Access-Log-Analyzer) - My final project for the CS50P course. It's a command-line tool, written in python, that reads and parses Apache web server logs and then prints a short and readable report.
+- [Access Log Analyzer](https://github.com/Dio-Goncalves/Access-Log-Analyzer) - My final project for the CS50P course. It's a command-line tool, written in python, that reads and parses Apache web server logs and then prints a short and readable report. It can also be run as a container, with Docker.
 
 ## Current goals
+- Access Log Analyzer v2 - Direct improvement upon my Access Log Analyzer project, where I implement multi-container stacks with Docker Compose, CI/CD with GitHub Actions, AWS cloud deployment and, finally, Kubernetes;
 - AWS Certified Solutions Architect certification;
 - Learn Docker & Kubernetes, aim for the CKA certification;
 - CCNA;
